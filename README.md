@@ -2,7 +2,7 @@
 
 ## This script will automate 3 tick fishing in OSRS.
 
- dependencies are keyboard and pyautogui which can be installed with `pip install keyboard pyautogui`
+ dependencies are keyboard and pyautogui which can be installed with `pip install keyboard pyautogui` or alternatively `py -m pip install keyboard pyautogui`
  
  then you may run the program with `python3 auto3t.py`
 
