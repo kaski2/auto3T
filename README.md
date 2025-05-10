@@ -8,3 +8,5 @@
 
  there is a flag --config which lets you reselect the places to click for the inventory. usage: `python3 auto3t.py --config`
 
+ # THIS IS JUST FOR A PROJECT DO NOT USE IN GAME YOU WILL GET BANNED FOR BOTTING
+
